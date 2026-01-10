@@ -180,6 +180,7 @@ nav .menu a {
     justify-content: center;
     margin-bottom: 16px;
 }
+
 footer{
     background-color: #001931;
     max-width: 1600px;
@@ -187,47 +188,47 @@ footer{
     margin: 0 auto;
     padding: 40px 0;
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     text-align: center;
-    color:#FFFFFF
+    color: #FFFFFF;
 }
 footer .footer-content{
     display: flex;
     flex-direction: column;
     justify-content: center;
-     align-items: center;
-    gap:20px;
+    align-items: center;
+    gap: 20px;
 }
 .footer-section{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: 45px 120px;
     align-items: center;
     gap: 100px;
 }
 .footer-section div{
-    display: table;
+    display:table;
     border-spacing: 20px;
 }
 .social-link{
     display: flex;
-    /* flex-direction: row; */
+    flex-direction: row;
     gap: 20px;
 }
+
 .footer-content{
-    display: flex;
+    display:flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
 }
 .footer-content hr{
     width: 83%;
-    border:0.5px solid #627382;
+    border: 0.5px solid rgb(70, 80, 100);;
 }
 .footer-content p{
-    font-size: 16px;
-    color: #627382;
+    font-size: 15px;
+    color: #FFFFFF;
 }
-
 
 
