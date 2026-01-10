@@ -181,6 +181,84 @@ nav .menu a {
     margin-bottom: 16px;
 }
 
+.knowledge-container{
+    max-width: 1600px;
+    height: 520px;
+    margin: 120px 120px 120px 120px;
+}
+.sub-container{
+    display: flex;
+    gap:42px;
+    
+}
+.knowledge-img{
+    width: 600px;
+    height: 550px;
+    border-radius: 8px;
+}
+.knowledge-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:14px;
+}
+.knowledge-content h1{
+    font-size: 56px;
+    font-weight: bold;
+    color: #001931;
+}
+.knowledge-content h5{
+    font-size: 16px;
+    color: #30B868;
+}
+.knowledge-content p{
+    font-size: 16px;
+    color: #666666;
+}
+.brain-p{
+    padding-bottom: 22px;
+}
+.access-container{
+    background-color: #efeeeea5;
+    max-width: 83%;
+    height: 300px;
+    margin:120px;
+    padding: 80px 310px 80px 310px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.access-container h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #001931;
+}
+.access-container p{
+    font-size: 18px;
+    color: #666666;
+    margin-top: 16px;
+}
+.cta-btn{
+     margin-top: 24px; 
+    background-color:#30B868;
+    color: #fff;
+    padding: 11px 20px;
+    border: none;
+    border-radius:4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    display: inline-flex;
+    gap:8px
+}
+.access-container:hover{
+    transform:translateY(-1px)
+
+}
+.knowledge-container:hover{
+    transform: translateY(-1px);
+}
 footer{
     background-color: #001931;
     max-width: 1600px;
