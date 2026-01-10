@@ -192,8 +192,8 @@ nav .menu a {
     
 }
 .knowledge-img{
-    width: 600px;
-    height: 550px;
+    width: 500px;
+    height: 500px;
     border-radius: 8px;
 }
 .knowledge-content{
@@ -256,9 +256,7 @@ nav .menu a {
     transform:translateY(-1px)
 
 }
-.knowledge-container:hover{
-    transform: translateY(-1px);
-}
+
 footer{
     background-color: #001931;
     max-width: 1600px;
