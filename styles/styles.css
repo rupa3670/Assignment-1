@@ -44,7 +44,7 @@ nav .menu a {
     align-items: center;
 }
 .hero-section{
-    background-image:url(/images/hero-bg.png);
+    background-image:url(../images/hero-bg.png);
     background-size:cover;
     height:650px;
     background-repeat: no-repeat;
@@ -223,7 +223,7 @@ nav .menu a {
 .access-container{
     background-color: #efeeeea5;
     max-width: 83%;
-    height: 300px;
+    height: 400px;
     margin:120px;
     padding: 80px 310px 80px 310px;
     display: flex;
