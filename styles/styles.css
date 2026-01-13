@@ -153,8 +153,8 @@ nav .menu a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 245px;
-    height: 240px;
+    width: 260px;
+    height: 260px;
     background-color: #FFFFFF;
     border-radius: 8px;
     padding: 24px;
@@ -235,7 +235,7 @@ nav .menu a {
     border-radius: 10px;
 }
 .access-container h1{
-    font-size: 40px;
+    font-size: 41px;
     font-weight: bold;
     color: #001931;
 }
