@@ -225,6 +225,8 @@ nav .menu a {
     max-width: 83%;
     height: 400px;
     margin:120px;
+    margin-left:160px;
+    margin-right:160px;
     padding: 40px 80px;
     display: flex;
     justify-content: center;
@@ -238,7 +240,7 @@ nav .menu a {
     color: #001931;
 }
 .access-container p{
-    font-size: 16px;
+    font-size: 14px;
     color: #666666;
     margin-top: 16px;
     
