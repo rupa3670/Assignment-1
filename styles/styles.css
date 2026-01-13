@@ -223,7 +223,7 @@ nav .menu a {
 .access-container{
     background-color: #efeeeea5;
     max-width: 83%;
-    height: 480px;
+    height: 400px;
     margin:180px;
     padding: 40px 80px;
     display: flex;
@@ -233,7 +233,7 @@ nav .menu a {
     border-radius: 10px;
 }
 .access-container h1{
-    font-size: 35px;
+    font-size: 20px;
     font-weight: bold;
     color: #001931;
 }
@@ -241,6 +241,7 @@ nav .menu a {
     font-size: 16px;
     color: #666666;
     margin-top: 16px;
+    
 }
 .cta-btn{
      margin-top: 24px; 
